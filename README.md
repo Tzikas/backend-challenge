@@ -1,3 +1,10 @@
+# On Heroku 
+https://blooming-savannah-87377.herokuapp.com/user_profile/n_i_k_o_z
+# My Fork 
+https://github.com/Tzikas/backend-challenge
+
+Most of the work is in routes/index.js and instascrape.js 
+
 # Coding Challenge for a backend.
 
 Build a simple API that scrape a site.
